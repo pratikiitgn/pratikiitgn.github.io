@@ -1,2 +1,2 @@
-# vkotaru.github.io
+# pratikiitgn.github.io
 Personal Website

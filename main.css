@@ -8,7 +8,7 @@
 @font-face {
   font-family: Optima;
   src: url('fonts/Optima-Regular.ttf') format('truetype');
-  font-weight: bold;
+  /* font-weight: bold; */
 }
 
 @font-face {
@@ -19,8 +19,8 @@
 
 @font-face {
   font-family: Optima;
-  src: url('fonts/Optima-BoldItalic.ttf') format('truetype');
-  font-weight: bold;
+  src: url('fonts/Optima-Regular.ttf') format('truetype');
+  /* font-weight: bold; */
   font-style: italic;
 }
 

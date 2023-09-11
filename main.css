@@ -2,12 +2,12 @@
 
 @font-face {
   font-family: Optima;
-  src: url("fonts/Aaargh.ttf") format('truetype');
+  src: url("fonts/Optima-Regular.ttf") format('truetype');
 }
 
 @font-face {
   font-family: Optima;
-  src: url('fonts/Aaargh-Bold.ttf') format('truetype');
+  src: url('fonts/Optima-Regular.ttf') format('truetype');
   font-weight: bold;
 }
 
